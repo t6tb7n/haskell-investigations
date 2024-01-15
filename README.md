@@ -12,3 +12,5 @@ This project aims at investigating the Haskell programming language and it ecosy
 * Documentation
 * Licensing model
 * Community
+* Debugging
+* Profiling
